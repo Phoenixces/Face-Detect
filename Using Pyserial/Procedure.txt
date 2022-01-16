@@ -1,0 +1,17 @@
+1. Install required packages using :
+	1.Open terminal using "window + R"
+		> pip install opencv-contrib-python
+        	> pip install cvzone
+        	> pip install mediapipe
+		> pip install pyserial
+
+2. Do the required connections as given in the image .
+
+3. Upload  ".ino" Arduino file to Arduino board 
+
+4. Run the Python(py) file. 
+
+5. To terminate operation, press "q" .
+
+** Note: Here system/pc inbuilt camera is used for image processing and face detection and hence the necessary actions are being taken .
+   One can connect External camera as well and do the same....! **	

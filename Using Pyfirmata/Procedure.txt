@@ -1,0 +1,20 @@
+1. Install Pyfirmata package using :
+	1.Open terminal using "window + R"
+		> pip install opencv-contrib-python
+        	> pip install cvzone
+        	> pip install mediapipe
+		> pip install pyfirmata
+
+2. Do the required connections as given in the image file .		 
+
+3. Install Firmata library for Arduino IDE
+	1. Open Arduino IDE -> Tools -> Manage Libraries -> Serach Firmata -> Install
+
+4. Upload "StandardFirmata.ino" code into Arduino board .
+
+5. Run the Python(py) file. 
+
+6. To terminate operation, press "q" .
+
+** Note: Here system/pc inbuilt camera is used for image processing and face detection and hence the necessary actions are being taken .
+   One can connect External camera as well and do the same....! **		
